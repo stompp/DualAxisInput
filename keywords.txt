@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For DualAxisInput
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AxisInput	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read		KEYWORD2
+x		KEYWORD2
+y		KEYWORD2
+position	KEYWORD2
+changed		KEYWORD2
+isNone		KEYWORD2
+isUp		KEYWORD2
+isDown		KEYWORD2
+isLeft		KEYWORD2
+isRight		KEYWORD2
+timeOnPosition	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+NONE		LITERAL1
+RIGHT		LITERAL1
+DOWN		LITERAL1
+LEFT		LITERAL1
+UP		LITERAL1
+ROTATION_0	LITERAL1
+ROTATION_90	LITERAL1
+ROTATION_180	LITERAL1
+ROTATION_270	LITERAL1
+
+AXIS_INPUT_DEAD_MIN	LITERAL1
+AXIS_INPUT_DEAD_MAX	LITERAL1
+AXIS_INPUT_MAP_MAX	LITERAL1

@@ -1,0 +1,4 @@
+{
+    "sketch": "DualAxisInputDemo.ino",
+    "board": "arduino:avr:uno"
+}
